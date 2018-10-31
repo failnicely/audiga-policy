@@ -1,12 +1,12 @@
-<h1 align="center"> 오디가 </h1> <br>
+<h1 align="center"> 오디가 - 세상 친절한 오디오 투어 앱 </h1> <br>
 <p align="center">
   <a href="https://www.facebook.com/Audiiga/">
-    <img alt="audiga" title="audiga" src="https://user-images.githubusercontent.com/7614353/47766360-93e15200-dd11-11e8-945a-0f80a7323f68.png" width="450">
+    <img alt="audiga" title="audiga" src="https://user-images.githubusercontent.com/7614353/47766360-93e15200-dd11-11e8-945a-0f80a7323f68.png" width="300">
   </a>
 </p>
 
 <p align="center">
-  오디가 - 세상 친절한 오디오 투어 앱
+  개인정보처리방침 페이지
 </p>
 
 <p align="center">
